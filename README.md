@@ -57,6 +57,7 @@ A comprehensive, curated collection of the best free, freemium, and paid APIs fo
 | [Polygon.io](https://polygon.io/) | Stock market, forex, and crypto data APIs | `apiKey` | ✅ | 🆓 Freemium |
 | [Exchange Rate API](https://www.exchangerate-api.com/) | Currency conversion and exchange rates | `apiKey` | ✅ | ✅ Free |
 | [Plaid](https://plaid.com/) | Banking and financial services integration | `apiKey` | ✅ | 💰 Paid |
+| [Free Crypto Price API](https://crypto-price-landing.vercel.app) | Real-time crypto prices for 275+ assets via Hyperliquid — no API key required | None | ✅ | ✅ Free |
 
 ---
 
@@ -171,6 +172,7 @@ A comprehensive, curated collection of the best free, freemium, and paid APIs fo
 | [Hunter.io](https://hunter.io/api-documentation) | Email finder and verification | `apiKey` | ✅ | 🆓 Freemium |
 | [ipify](https://www.ipify.org/) | Public IP address lookup | None | ✅ | ✅ Free |
 | [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | Fake REST API for testing and prototyping | None | ✅ | ✅ Free |
+| [Agent Gateway](https://agent-gateway-kappa.vercel.app) | Unified API gateway: 34+ services (wallets, scraping, storage, scheduling, email, DNS) for AI agents | `apiKey` | ✅ | 🆓 Freemium |
 
 ---
 
