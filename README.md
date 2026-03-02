@@ -58,6 +58,8 @@ A comprehensive, curated collection of the best free, freemium, and paid APIs fo
 | [Exchange Rate API](https://www.exchangerate-api.com/) | Currency conversion and exchange rates | `apiKey` | ✅ | ✅ Free |
 | [Plaid](https://plaid.com/) | Banking and financial services integration | `apiKey` | ✅ | 💰 Paid |
 | [Free Crypto Price API](https://crypto-price-landing.vercel.app) | Real-time crypto prices for 275+ assets via Hyperliquid — no API key required | None | ✅ | ✅ Free |
+| [Frostbyte Wallet API](https://frostbyte-landing.vercel.app) | Multi-chain non-custodial HD wallet API for AI agents. 9 chains, HD wallets, balance queries, send, cross-chain swaps | `apiKey` | ✅ | 🆓 Freemium |
+| [Frostbyte Domains API](https://frostbyte-landing.vercel.app) | Domain registration + DNS management for AI agents. 18 TLDs, privacy-first, full DNS control | `apiKey` | ✅ | 💰 Paid |
 
 ---
 
