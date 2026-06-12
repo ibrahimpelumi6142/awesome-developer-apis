@@ -80,6 +80,7 @@ A comprehensive, curated collection of the best free, freemium, and paid APIs fo
 | API | Description | Auth | HTTPS | Free |
 |-----|-------------|------|-------|------|
 | [Twitter API v2](https://developer.twitter.com/en/docs/twitter-api) | Tweet, search, and user data | `OAuth` | ✅ | 🆓 Freemium |
+| [Xquik](https://docs.xquik.com) | Retrieve X posts, profiles, trends, and engagement data | `apiKey` | ✅ | 💰 Paid |
 | [Instagram Social](https://docs.steadyapi.com/#instagram-social) | Scrape public Instagram posts and profiles | `apiKey` | ✅ | 🆓 Freemium |
 | [Reddit API](https://www.reddit.com/dev/api/) | Posts, comments, and subreddit data | `OAuth` | ✅ | ✅ Free |
 | [Reddit Social](https://docs.steadyapi.com/#reddit) | Track trending Reddit posts and sentiment | `apiKey` | ✅ | 🆓 Freemium |
