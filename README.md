@@ -137,12 +137,13 @@ A comprehensive, curated collection of the best free, freemium, and paid APIs fo
 
 | API | Description | Auth | HTTPS | Free |
 |-----|-------------|------|-------|------|
-| [Twilio](https://www.twilio.com/docs/usage/api) | SMS, voice, video, and WhatsApp messaging | `apiKey` | ✅ | 🆓 Freemium |
-| [SendGrid](https://sendgrid.com/solutions/email-api/) | Email delivery and marketing API | `apiKey` | ✅ | 🆓 Freemium |
-| [Mailgun](https://www.mailgun.com/) | Transactional email service | `apiKey` | ✅ | 🆓 Freemium |
-| [WhatsApp Business API](https://developers.facebook.com/docs/whatsapp) | WhatsApp messaging for businesses | `OAuth` | ✅ | 💰 Paid |
-| [Slack API](https://api.slack.com/) | Build apps and integrations for Slack | `OAuth` | ✅ | ✅ Free |
 | [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging) | Push notifications for mobile and web | `apiKey` | ✅ | ✅ Free |
+| [Mailgun](https://www.mailgun.com/) | Transactional email service | `apiKey` | ✅ | 🆓 Freemium |
+| [NumberHub](https://numberhub.io/api-docs/) | Get SMS codes/rentals, verification emails, data eSIMs and residential proxies | `apiKey` | ✅ | 💰 Paid |
+| [SendGrid](https://sendgrid.com/solutions/email-api/) | Email delivery and marketing API | `apiKey` | ✅ | 🆓 Freemium |
+| [Slack API](https://api.slack.com/) | Build apps and integrations for Slack | `OAuth` | ✅ | ✅ Free |
+| [Twilio](https://www.twilio.com/docs/usage/api) | SMS, voice, video, and WhatsApp messaging | `apiKey` | ✅ | 🆓 Freemium |
+| [WhatsApp Business API](https://developers.facebook.com/docs/whatsapp) | WhatsApp messaging for businesses | `OAuth` | ✅ | 💰 Paid |
 
 ---
 
