@@ -150,12 +150,13 @@ A comprehensive, curated collection of the best free, freemium, and paid APIs fo
 
 | API | Description | Auth | HTTPS | Free |
 |-----|-------------|------|-------|------|
-| [Google Analytics API](https://developers.google.com/analytics) | Website and app analytics data | `OAuth` | ✅ | ✅ Free |
-| [Mixpanel API](https://developer.mixpanel.com/docs) | Product analytics and user tracking | `apiKey` | ✅ | 🆓 Freemium |
 | [Amplitude API](https://www.docs.developers.amplitude.com/) | Product analytics and behavioral data | `apiKey` | ✅ | 🆓 Freemium |
+| [Google Analytics API](https://developers.google.com/analytics) | Website and app analytics data | `OAuth` | ✅ | ✅ Free |
+| [Invokely](https://invokely.ai/docs) | Query cited stats; Free MCP: 500 calls/month; REST data queries are paid. | `apiKey` | ✅ | 🆓 Freemium |
+| [Mixpanel API](https://developer.mixpanel.com/docs) | Product analytics and user tracking | `apiKey` | ✅ | 🆓 Freemium |
 | [Segment API](https://segment.com/docs/connections/sources/catalog/libraries/server/) | Customer data platform and routing | `apiKey` | ✅ | 🆓 Freemium |
-| [World Bank API](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589) | Global development and economic data | None | ✅ | ✅ Free |
 | [US Census Bureau API](https://www.census.gov/data/developers/data-sets.html) | Demographic and economic US data | `apiKey` | ✅ | ✅ Free |
+| [World Bank API](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589) | Global development and economic data | None | ✅ | ✅ Free |
 
 ---
 
