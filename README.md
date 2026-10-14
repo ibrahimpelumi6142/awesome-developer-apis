@@ -68,6 +68,7 @@ A comprehensive, curated collection of the best free, freemium, and paid APIs fo
 | [Anthropic Claude](https://www.anthropic.com/api) | Advanced AI assistant and language models | `apiKey` | ✅ | 💰 Paid |
 | [Google Gemini](https://ai.google.dev/) | Multimodal AI models from Google | `apiKey` | ✅ | 🆓 Freemium |
 | [Hugging Face](https://huggingface.co/inference-api) | Access 100k+ ML models via API | `apiKey` | ✅ | 🆓 Freemium |
+| [MangaTranslate](https://www.mangatranslate.com/api-examples/) | Translate text in images with OCR and typesetting | `apiKey` | ✅ | 💰 Paid |
 | [Replicate](https://replicate.com/) | Run ML models in the cloud | `apiKey` | ✅ | 💰 Paid |
 | [Stability AI](https://platform.stability.ai/) | Image generation with Stable Diffusion | `apiKey` | ✅ | 💰 Paid |
 | [ElevenLabs](https://elevenlabs.io/) | AI voice generation and text-to-speech | `apiKey` | ✅ | 🆓 Freemium |
