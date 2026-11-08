@@ -1,4 +1,4 @@
-### 📊 Data & Analytics 🌐 Awesome Developer APIs
+# 🌐 Awesome Developer APIs
 
 A comprehensive, curated collection of the best free, freemium, and paid APIs for developers. Build faster with reliable, well-documented APIs.
 
