@@ -1,4 +1,4 @@
-# 🌐 Awesome Developer APIs
+### 📊 Data & Analytics 🌐 Awesome Developer APIs
 
 A comprehensive, curated collection of the best free, freemium, and paid APIs for developers. Build faster with reliable, well-documented APIs.
 
@@ -150,6 +150,7 @@ A comprehensive, curated collection of the best free, freemium, and paid APIs fo
 
 | API | Description | Auth | HTTPS | Free |
 |-----|-------------|------|-------|------|
+| [AgentSEO](https://www.agentseo.dev/docs) | Analyze Google SERPs, keywords, rankings, and AI Overview visibility | `apiKey` | ✅ | 💰 Paid |
 | [Google Analytics API](https://developers.google.com/analytics) | Website and app analytics data | `OAuth` | ✅ | ✅ Free |
 | [Mixpanel API](https://developer.mixpanel.com/docs) | Product analytics and user tracking | `apiKey` | ✅ | 🆓 Freemium |
 | [Amplitude API](https://www.docs.developers.amplitude.com/) | Product analytics and behavioral data | `apiKey` | ✅ | 🆓 Freemium |
